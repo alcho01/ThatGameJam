@@ -27,5 +27,9 @@
 			"Name": "NiagaraFluids",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Mac",
+		"Windows"
 	]
 }
