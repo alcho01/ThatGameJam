@@ -22,6 +22,10 @@
 		{
 			"Name": "RemoteControlComponents",
 			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFluids",
+			"Enabled": true
 		}
 	]
 }
